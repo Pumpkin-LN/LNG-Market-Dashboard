@@ -1,0 +1,282 @@
+[
+  {
+    "type": "pipeline_imports",
+    "year": 2023,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2024,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2025,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2026,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2027,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2028,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2029,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2030,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2031,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2032,
+    "quantity_mmcfd": 14.61
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2033,
+    "quantity_mmcfd": 88.55
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2034,
+    "quantity_mmcfd": 88.42
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2035,
+    "quantity_mmcfd": 88.51
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2036,
+    "quantity_mmcfd": 77.87
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2037,
+    "quantity_mmcfd": 68.51
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2038,
+    "quantity_mmcfd": 60.27
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2039,
+    "quantity_mmcfd": 53.03
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2040,
+    "quantity_mmcfd": 46.65
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2041,
+    "quantity_mmcfd": 41.03
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2042,
+    "quantity_mmcfd": 36.09
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2043,
+    "quantity_mmcfd": 31.75
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2044,
+    "quantity_mmcfd": 27.92
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2045,
+    "quantity_mmcfd": 24.56
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2046,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2047,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2048,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2049,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "pipeline_imports",
+    "year": 2050,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "lng_imports",
+    "year": 2023,
+    "quantity_mmcfd": 9.17
+  },
+  {
+    "type": "lng_imports",
+    "year": 2024,
+    "quantity_mmcfd": 38.65
+  },
+  {
+    "type": "lng_imports",
+    "year": 2025,
+    "quantity_mmcfd": 62.22
+  },
+  {
+    "type": "lng_imports",
+    "year": 2026,
+    "quantity_mmcfd": 44.44
+  },
+  {
+    "type": "lng_imports",
+    "year": 2027,
+    "quantity_mmcfd": 123.11
+  },
+  {
+    "type": "lng_imports",
+    "year": 2028,
+    "quantity_mmcfd": 162.06
+  },
+  {
+    "type": "lng_imports",
+    "year": 2029,
+    "quantity_mmcfd": 168.34
+  },
+  {
+    "type": "lng_imports",
+    "year": 2030,
+    "quantity_mmcfd": 259.87
+  },
+  {
+    "type": "lng_imports",
+    "year": 2031,
+    "quantity_mmcfd": 485.38
+  },
+  {
+    "type": "lng_imports",
+    "year": 2032,
+    "quantity_mmcfd": 724.96
+  },
+  {
+    "type": "lng_imports",
+    "year": 2033,
+    "quantity_mmcfd": 843.79
+  },
+  {
+    "type": "lng_imports",
+    "year": 2034,
+    "quantity_mmcfd": 1028.59
+  },
+  {
+    "type": "lng_imports",
+    "year": 2035,
+    "quantity_mmcfd": 1050.23
+  },
+  {
+    "type": "lng_imports",
+    "year": 2036,
+    "quantity_mmcfd": 1106.33
+  },
+  {
+    "type": "lng_imports",
+    "year": 2037,
+    "quantity_mmcfd": 1157.07
+  },
+  {
+    "type": "lng_imports",
+    "year": 2038,
+    "quantity_mmcfd": 1192.62
+  },
+  {
+    "type": "lng_imports",
+    "year": 2039,
+    "quantity_mmcfd": 1211.1
+  },
+  {
+    "type": "lng_imports",
+    "year": 2040,
+    "quantity_mmcfd": 1171.29
+  },
+  {
+    "type": "lng_imports",
+    "year": 2041,
+    "quantity_mmcfd": 1235.86
+  },
+  {
+    "type": "lng_imports",
+    "year": 2042,
+    "quantity_mmcfd": 1304.44
+  },
+  {
+    "type": "lng_imports",
+    "year": 2043,
+    "quantity_mmcfd": 1371.13
+  },
+  {
+    "type": "lng_imports",
+    "year": 2044,
+    "quantity_mmcfd": 1468.84
+  },
+  {
+    "type": "lng_imports",
+    "year": 2045,
+    "quantity_mmcfd": 1454.91
+  },
+  {
+    "type": "lng_imports",
+    "year": 2046,
+    "quantity_mmcfd": 1537.35
+  },
+  {
+    "type": "lng_imports",
+    "year": 2047,
+    "quantity_mmcfd": 1626.92
+  },
+  {
+    "type": "lng_imports",
+    "year": 2048,
+    "quantity_mmcfd": 1705.69
+  },
+  {
+    "type": "lng_imports",
+    "year": 2049,
+    "quantity_mmcfd": 1806.28
+  },
+  {
+    "type": "lng_imports",
+    "year": 2050,
+    "quantity_mmcfd": 1839.34
+  }
+]
