@@ -1,0 +1,562 @@
+[
+  {
+    "type": "Commercial",
+    "year": 2023,
+    "quantity_mmcfd": 716.0
+  },
+  {
+    "type": "Commercial",
+    "year": 2024,
+    "quantity_mmcfd": 609.05
+  },
+  {
+    "type": "Commercial",
+    "year": 2025,
+    "quantity_mmcfd": 556.83
+  },
+  {
+    "type": "Commercial",
+    "year": 2026,
+    "quantity_mmcfd": 589.85
+  },
+  {
+    "type": "Commercial",
+    "year": 2027,
+    "quantity_mmcfd": 643.79
+  },
+  {
+    "type": "Commercial",
+    "year": 2028,
+    "quantity_mmcfd": 676.58
+  },
+  {
+    "type": "Commercial",
+    "year": 2029,
+    "quantity_mmcfd": 754.79
+  },
+  {
+    "type": "Commercial",
+    "year": 2030,
+    "quantity_mmcfd": 776.21
+  },
+  {
+    "type": "Commercial",
+    "year": 2031,
+    "quantity_mmcfd": 733.33
+  },
+  {
+    "type": "Commercial",
+    "year": 2032,
+    "quantity_mmcfd": 714.74
+  },
+  {
+    "type": "Commercial",
+    "year": 2033,
+    "quantity_mmcfd": 743.72
+  },
+  {
+    "type": "Commercial",
+    "year": 2034,
+    "quantity_mmcfd": 712.65
+  },
+  {
+    "type": "Commercial",
+    "year": 2035,
+    "quantity_mmcfd": 613.22
+  },
+  {
+    "type": "Commercial",
+    "year": 2036,
+    "quantity_mmcfd": 546.79
+  },
+  {
+    "type": "Commercial",
+    "year": 2037,
+    "quantity_mmcfd": 509.0
+  },
+  {
+    "type": "Commercial",
+    "year": 2038,
+    "quantity_mmcfd": 442.41
+  },
+  {
+    "type": "Commercial",
+    "year": 2039,
+    "quantity_mmcfd": 381.5
+  },
+  {
+    "type": "Commercial",
+    "year": 2040,
+    "quantity_mmcfd": 372.99
+  },
+  {
+    "type": "Commercial",
+    "year": 2041,
+    "quantity_mmcfd": 361.82
+  },
+  {
+    "type": "Commercial",
+    "year": 2042,
+    "quantity_mmcfd": 349.82
+  },
+  {
+    "type": "Commercial",
+    "year": 2043,
+    "quantity_mmcfd": 347.04
+  },
+  {
+    "type": "Commercial",
+    "year": 2044,
+    "quantity_mmcfd": 344.44
+  },
+  {
+    "type": "Commercial",
+    "year": 2045,
+    "quantity_mmcfd": 342.03
+  },
+  {
+    "type": "Commercial",
+    "year": 2046,
+    "quantity_mmcfd": 339.79
+  },
+  {
+    "type": "Commercial",
+    "year": 2047,
+    "quantity_mmcfd": 310.0
+  },
+  {
+    "type": "Commercial",
+    "year": 2048,
+    "quantity_mmcfd": 310.0
+  },
+  {
+    "type": "Commercial",
+    "year": 2049,
+    "quantity_mmcfd": 310.0
+  },
+  {
+    "type": "Commercial",
+    "year": 2050,
+    "quantity_mmcfd": 310.0
+  },
+  {
+    "type": "Technical",
+    "year": 2023,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2024,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2025,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2026,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2027,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2028,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2029,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2030,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2031,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2032,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2033,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "Technical",
+    "year": 2034,
+    "quantity_mmcfd": 5.6
+  },
+  {
+    "type": "Technical",
+    "year": 2035,
+    "quantity_mmcfd": 128.93
+  },
+  {
+    "type": "Technical",
+    "year": 2036,
+    "quantity_mmcfd": 251.41
+  },
+  {
+    "type": "Technical",
+    "year": 2037,
+    "quantity_mmcfd": 327.4
+  },
+  {
+    "type": "Technical",
+    "year": 2038,
+    "quantity_mmcfd": 431.6
+  },
+  {
+    "type": "Technical",
+    "year": 2039,
+    "quantity_mmcfd": 461.99
+  },
+  {
+    "type": "Technical",
+    "year": 2040,
+    "quantity_mmcfd": 447.3
+  },
+  {
+    "type": "Technical",
+    "year": 2041,
+    "quantity_mmcfd": 433.18
+  },
+  {
+    "type": "Technical",
+    "year": 2042,
+    "quantity_mmcfd": 418.59
+  },
+  {
+    "type": "Technical",
+    "year": 2043,
+    "quantity_mmcfd": 404.05
+  },
+  {
+    "type": "Technical",
+    "year": 2044,
+    "quantity_mmcfd": 375.88
+  },
+  {
+    "type": "Technical",
+    "year": 2045,
+    "quantity_mmcfd": 368.38
+  },
+  {
+    "type": "Technical",
+    "year": 2046,
+    "quantity_mmcfd": 367.85
+  },
+  {
+    "type": "Technical",
+    "year": 2047,
+    "quantity_mmcfd": 365.0
+  },
+  {
+    "type": "Technical",
+    "year": 2048,
+    "quantity_mmcfd": 365.0
+  },
+  {
+    "type": "Technical",
+    "year": 2049,
+    "quantity_mmcfd": 365.0
+  },
+  {
+    "type": "Technical",
+    "year": 2050,
+    "quantity_mmcfd": 365.0
+  },
+  {
+    "type": "YTF",
+    "year": 2023,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2024,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2025,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2026,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2027,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2028,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2029,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2030,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2031,
+    "quantity_mmcfd": 0.0
+  },
+  {
+    "type": "YTF",
+    "year": 2032,
+    "quantity_mmcfd": 43.04
+  },
+  {
+    "type": "YTF",
+    "year": 2033,
+    "quantity_mmcfd": 79.48
+  },
+  {
+    "type": "YTF",
+    "year": 2034,
+    "quantity_mmcfd": 113.78
+  },
+  {
+    "type": "YTF",
+    "year": 2035,
+    "quantity_mmcfd": 180.14
+  },
+  {
+    "type": "YTF",
+    "year": 2036,
+    "quantity_mmcfd": 194.02
+  },
+  {
+    "type": "YTF",
+    "year": 2037,
+    "quantity_mmcfd": 220.0
+  },
+  {
+    "type": "YTF",
+    "year": 2038,
+    "quantity_mmcfd": 273.57
+  },
+  {
+    "type": "YTF",
+    "year": 2039,
+    "quantity_mmcfd": 338.09
+  },
+  {
+    "type": "YTF",
+    "year": 2040,
+    "quantity_mmcfd": 357.64
+  },
+  {
+    "type": "YTF",
+    "year": 2041,
+    "quantity_mmcfd": 359.1
+  },
+  {
+    "type": "YTF",
+    "year": 2042,
+    "quantity_mmcfd": 363.42
+  },
+  {
+    "type": "YTF",
+    "year": 2043,
+    "quantity_mmcfd": 349.5
+  },
+  {
+    "type": "YTF",
+    "year": 2044,
+    "quantity_mmcfd": 330.8
+  },
+  {
+    "type": "YTF",
+    "year": 2045,
+    "quantity_mmcfd": 320.83
+  },
+  {
+    "type": "YTF",
+    "year": 2046,
+    "quantity_mmcfd": 312.36
+  },
+  {
+    "type": "YTF",
+    "year": 2047,
+    "quantity_mmcfd": 332.09
+  },
+  {
+    "type": "YTF",
+    "year": 2048,
+    "quantity_mmcfd": 330.2
+  },
+  {
+    "type": "YTF",
+    "year": 2049,
+    "quantity_mmcfd": 306.94
+  },
+  {
+    "type": "YTF",
+    "year": 2050,
+    "quantity_mmcfd": 286.41
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2023,
+    "quantity_mmcfd": 716.0
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2024,
+    "quantity_mmcfd": 609.05
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2025,
+    "quantity_mmcfd": 556.83
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2026,
+    "quantity_mmcfd": 589.85
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2027,
+    "quantity_mmcfd": 643.79
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2028,
+    "quantity_mmcfd": 676.58
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2029,
+    "quantity_mmcfd": 754.79
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2030,
+    "quantity_mmcfd": 776.21
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2031,
+    "quantity_mmcfd": 733.33
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2032,
+    "quantity_mmcfd": 757.79
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2033,
+    "quantity_mmcfd": 823.2
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2034,
+    "quantity_mmcfd": 832.04
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2035,
+    "quantity_mmcfd": 922.29
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2036,
+    "quantity_mmcfd": 992.22
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2037,
+    "quantity_mmcfd": 1056.4
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2038,
+    "quantity_mmcfd": 1147.58
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2039,
+    "quantity_mmcfd": 1181.58
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2040,
+    "quantity_mmcfd": 1177.94
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2041,
+    "quantity_mmcfd": 1154.1
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2042,
+    "quantity_mmcfd": 1131.83
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2043,
+    "quantity_mmcfd": 1100.58
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2044,
+    "quantity_mmcfd": 1051.12
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2045,
+    "quantity_mmcfd": 1031.25
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2046,
+    "quantity_mmcfd": 1019.99
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2047,
+    "quantity_mmcfd": 1007.09
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2048,
+    "quantity_mmcfd": 1005.2
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2049,
+    "quantity_mmcfd": 981.94
+  },
+  {
+    "type": "Total gas supply",
+    "year": 2050,
+    "quantity_mmcfd": 961.41
+  }
+]
