@@ -1,0 +1,38 @@
+{
+  "title": "LNG discharge by terminal, annual",
+  "unit": "kt",
+  "terminals": [
+    "First Gen Batangas (interim FSRU)",
+    "Philippines LNG"
+  ],
+  "data": [
+    {
+      "year": 2023,
+      "period": "Full year",
+      "is_partial_year": false,
+      "First Gen Batangas (interim FSRU)": 67.4,
+      "Philippines LNG": 542.1
+    },
+    {
+      "year": 2024,
+      "period": "Full year",
+      "is_partial_year": false,
+      "First Gen Batangas (interim FSRU)": 204.5,
+      "Philippines LNG": 1130
+    },
+    {
+      "year": 2025,
+      "period": "Full year",
+      "is_partial_year": false,
+      "First Gen Batangas (interim FSRU)": 198.8,
+      "Philippines LNG": 1656.8
+    },
+    {
+      "year": 2026,
+      "period": "Jan-Feb",
+      "is_partial_year": true,
+      "First Gen Batangas (interim FSRU)": 0,
+      "Philippines LNG": 284
+    }
+  ]
+}
